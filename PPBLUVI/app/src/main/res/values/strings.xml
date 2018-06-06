@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Penyewaan</string>
+    <string-array name="Alat">
+    <item>Tenda kap.4</item>
+    <item>Tenda kap.2</item>
+    <item>Tas Carrier 80L</item>
+        <item>Tas Carrier 60L</item>
+    <item>Sleeping Bag</item>
+    <item>Nesting</item>
+        <item>Sepatu Gunung</item>
+        <item>Sandal Gunung</item>
+        <item>Kompor Portable</item>
+        <item>Matras</item>
+        <item>Lampu Tenda</item>
+        <item>Senter</item>
+        <item>Headlamp</item>
+        <item>Jaket Gunung</item>
+        <item>Flysheet</item>
+        <item>Tracking Pole</item>
+
+</string-array>
+</resources>
